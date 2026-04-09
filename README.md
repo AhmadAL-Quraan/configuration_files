@@ -1,2 +1,3 @@
 # configuration_files
-Those are configuration I have on my system
+
+Those are configuration files I have on my Linux system
