@@ -1,3 +1,3 @@
 # configuration_files
 
-Those are configuration files I have on my Linux system
+Configuration files I have on my Linux system, which I have customized to my liking. 
